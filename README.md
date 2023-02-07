@@ -11,5 +11,5 @@ This file is for how to use entity trim.
 ## Assembly Modeling
 CarBody.SLDASM, some flame files are used for making car body made by MISUMI alminium flame.
 
-## Carbody, Caster and Base plate for Caster
-CarBodybaseplate.SLDASM: CarBody.SLDASM with Caster and base plate for Caster
+## Carbody and Caster
+CarBody_Caster.SLDASM: CarBody.SLDASM with Caster and base plate for Caster
